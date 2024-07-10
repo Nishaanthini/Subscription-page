@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin:50px;
+    border : 1px solid black;
+}
+h2{
+    padding: 0px 10px;
+}
+h3{
+    margin: 0px;;
+}
+.section input{
+    width:95%;
+
+}
+.section{
+    padding:10px;
+}
+form{
+    border:1px solid black;
+    margin: 20px;
+    padding:0px;
+}
+.p , .btn{
+    background-color: rgb(239, 237, 237);
+}
+button{
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    width: 90%;
+    background-color: rgb(47, 162, 47);
+}
+div{
+    padding: 10px;
+}
